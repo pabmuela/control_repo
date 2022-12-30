@@ -1,4 +1,4 @@
-mod 'puppet/nginx'
+mod 'puppet-nginx'
 mod 'puppetlabs-stdlib',
-mod 'puppet/concat'
-mod 'puppet/translate'
+mod 'puppet-concat'
+mod 'puppet-translate'
